@@ -1,0 +1,1 @@
+export const LINK_API = 'https://shop-ec-pro.herokuapp.com'
